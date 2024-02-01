@@ -1,0 +1,24 @@
+.calc{
+    width: 400px;
+    height: 500px;
+background-color: grey;
+margin-left: 500px;
+
+}
+.head{
+    text-align: center;
+}
+.screen{
+    margin-left:40px;
+    width:80%;
+    height:50px;
+    margin-top: 20px;
+
+}
+.btn {
+    width: 56px;
+    height: 46px;
+    margin-top: 30px;
+    margin-left: 35px;
+    background-color: darkkhaki;
+}
